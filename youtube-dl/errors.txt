@@ -1,0 +1,164 @@
+[download] Downloading video 25 of 1556
+[youtube] hl7PZcT7Ess: Downloading webpage
+[youtube] hl7PZcT7Ess: Downloading video info webpage
+ERROR: This video is not available.
+
+
+++switched with another thing
+[download] Downloading video 171 of 1556
+[youtube] aK9gY3VLKU4: Downloading webpage
+[youtube] aK9gY3VLKU4: Downloading video info webpage
+ERROR: This video contains content from Turner EST, who has blocked it on copyright grounds.
+
+++switched with another thing
+[download] Downloading video 267 of 1556
+[youtube] T-gqMpZroy8: Downloading webpage
+[youtube] T-gqMpZroy8: Downloading video info webpage
+ERROR: This video contains content from SME, who has blocked it in your country on copyright grounds.
+
+--removed from list
+[download] Downloading video 285 of 1556
+[youtube] _21ceBwwJJ8: Downloading webpage
+[youtube] _21ceBwwJJ8: Downloading video info webpage
+ERROR: This video is not available.
+
+--removed from list
+[download] Downloading video 289 of 1556
+[youtube] 5boRQcTvnwU: Downloading webpage
+[youtube] 5boRQcTvnwU: Downloading video info webpage
+ERROR: This video contains content from Muyap. It is not available in your country.
+
+++switched with another thing
+[download] Downloading video 303 of 1556
+[youtube] wFWDGTVYqE8: Downloading webpage
+[youtube] wFWDGTVYqE8: Downloading video info webpage
+ERROR: This video contains content from SME, who has blocked it in your country on copyright grounds.
+
+++
+[download] Downloading video 318 of 1556
+[youtube] 0zDjnDAwmig: Downloading webpage
+[youtube] 0zDjnDAwmig: Downloading video info webpage
+ERROR: This video contains content from SME, who has blocked it in your country on copyright grounds.
+
+++
+[download] Downloading video 478 of 1556
+[youtube] oW4sD12V4u8: Downloading webpage
+[youtube] oW4sD12V4u8: Downloading video info webpage
+ERROR: This video contains content from UMPG Publishing, who has blocked it on copyright grounds.
+
+++
+[download] Downloading video 644 of 1556
+[youtube] 4zLfCnGVeL4: Downloading webpage
+[youtube] 4zLfCnGVeL4: Downloading video info webpage
+ERROR: This video contains content from SME, who has blocked it in your country on copyright grounds.
+
+++
+[youtube] c71RCAyLS1M: Downloading webpage
+[youtube] c71RCAyLS1M: Downloading video info webpage
+WARNING: Unable to extract video title
+ERROR: This video is no longer available because the YouTube account associated with this video has been terminated.
+
+++
+[download] Downloading video 1034 of 1556
+[youtube] gBR0pse3hgo: Downloading webpage
+[youtube] gBR0pse3hgo: Downloading video info webpage
+ERROR: This video is not available.
+
+++
+[download] Downloading video 1036 of 1556
+[youtube] UPWfpESTp6w: Downloading webpage
+[youtube] UPWfpESTp6w: Downloading video info webpage
+ERROR: This video is not available.
+
+++
+[download] Downloading video 1055 of 1556
+[youtube] qTyZznlHZv4: Downloading webpage
+[youtube] qTyZznlHZv4: Downloading video info webpage
+ERROR: This video is not available.
+
+++
+[download] Downloading video 1139 of 1556
+[youtube] -rF-_4vwiMs: Downloading webpage
+[youtube] -rF-_4vwiMs: Downloading video info webpage
+ERROR: This video is not available.
+
+++
+[download] Downloading video 1188 of 1556
+[youtube] jxbPu7vlIfo: Downloading webpage
+[youtube] jxbPu7vlIfo: Downloading video info webpage
+ERROR: This video is not available.
+
+??????
+[download] Downloading video 1189 of 1556
+[youtube] YWQzifXLJGs: Downloading webpage
+[youtube] YWQzifXLJGs: Downloading video info webpage
+ERROR: This video is not available.
+
+?????
+[download] Downloading video 1192 of 1556
+[youtube] 5U1UB82tst4: Downloading webpage
+[youtube] 5U1UB82tst4: Downloading video info webpage
+ERROR: This video is not available.
+
+????
+[download] Downloading video 1199 of 1556
+[youtube] 8C_btENqZFU: Downloading webpage
+[youtube] 8C_btENqZFU: Downloading video info webpage
+ERROR: This video is not available.
+
+++
+[download] Downloading video 1236 of 1556
+[youtube] uzurqBnALkw: Downloading webpage
+[youtube] uzurqBnALkw: Downloading video info webpage
+ERROR: This video contains content from WMG, who has blocked it in your country on copyright grounds.
+
+++
+[download] Downloading video 1379 of 1556
+[youtube] KK3oh6sNhBQ: Downloading webpage
+[youtube] KK3oh6sNhBQ: Downloading video info webpage
+ERROR: This video contains content from SME, who has blocked it in your country on copyright grounds.
+
+++
+[download] Downloading video 1380 of 1556
+[youtube] djuNYdheD7k: Downloading webpage
+[youtube] djuNYdheD7k: Downloading video info webpage
+ERROR: This video contains content from SME, who has blocked it in your country on copyright grounds.
+
+++
+[download] Downloading video 1381 of 1556
+[youtube] AWijlCfZat8: Downloading webpage
+[youtube] AWijlCfZat8: Downloading video info webpage
+ERROR: This video contains content from SME, who has blocked it in your country on copyright grounds.
+
+++
+[download] Downloading video 1382 of 1556
+[youtube] qnrRsMtKFEg: Downloading webpage
+[youtube] qnrRsMtKFEg: Downloading video info webpage
+ERROR: This video contains content from SME, who has blocked it in your country on copyright grounds.
+
+++
+[download] Downloading video 1383 of 1556
+[youtube] pR30knJs4Xk: Downloading webpage
+[youtube] pR30knJs4Xk: Downloading video info webpage
+ERROR: This video contains content from SME, who has blocked it in your country on copyright grounds.
+
+++
+[download] Downloading video 1384 of 1556
+[youtube] cZ4kLlSrfuc: Downloading webpage
+[youtube] cZ4kLlSrfuc: Downloading video info webpage
+ERROR: This video contains content from SME, who has blocked it in your country on copyright grounds.
+
+--
+[download] Downloading video 1385 of 1556
+[youtube] oJZRqPiGkTg: Downloading webpage
+[youtube] oJZRqPiGkTg: Downloading video info webpage
+ERROR: This video contains content from SME, who has blocked it in your country on copyright grounds.
+
+++
+[download] Downloading video 1511 of 1556
+[youtube] ekMLF79kI1k: Downloading webpage
+[youtube] ekMLF79kI1k: Downloading video info webpage
+ERROR: This video contains content from Videomite Music, who has blocked it on copyright grounds.
+
+
+

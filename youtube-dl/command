@@ -1,0 +1,1 @@
+youtube-dl --ignore-errors --download-archive downloaded.txt -o '%(playlist)s/%(title)s.%(ext)s' -f 'bestvideo[height<=1080]+bestaudio/best[height<=1080]' -r 7M --add-metadata --merge-output-format mkv https://www.youtube.com/playlist?list=PLpYBkmBBKc7Ci0-n9pbPShjMPWUsyAXw8
